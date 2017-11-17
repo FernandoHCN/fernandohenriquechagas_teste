@@ -9,13 +9,15 @@
     "bluebird": "^3.5.0",
     "body-parser": "~1.18.2",
     "cookie-parser": "~1.4.3",
-    "mongoose": "^4.11.7",
-    "mongoose-paginate": "^5.0.3",
     "cors": "^2.8.4",
     "debug": "~2.6.9",
     "ejs": "~2.5.7",
     "express": "~4.15.5",
+    "method-override": "^2.3.10",
+    "mongoose": "^4.11.7",
+    "mongoose-paginate": "^5.0.3",
     "morgan": "~1.9.0",
+    "nodemon": "^1.12.1",
     "serve-favicon": "~2.4.5"
   }
 }
