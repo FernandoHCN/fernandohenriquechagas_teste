@@ -4,7 +4,7 @@ var mongoosePaginate = require('mongoose-paginate')
 var MotoristaSchema = new mongoose.Schema({
     nome: String, 
     dataNascimento: String, 
-    CPF: Number,
+    CPF: String,
     carroModelo: String,
     status: String,
     sexo: String
