@@ -1,4 +1,4 @@
-var CorridaService = require('../services/Corrida.service');
+var CorridaService = require('../services/corrida.service');
 var Motorista = require('../models/motorista.model');
 var Passageiro = require('../models/passageiro.model');
 // var Corrida = require('../models/corrida.model');

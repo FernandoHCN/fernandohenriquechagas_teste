@@ -1,4 +1,4 @@
-var Corrida = require('../models/Corrida.model')
+var Corrida = require('../models/corrida.model')
 var Motorista = require('../models/motorista.model')
 var Passageiro = require('../models/passageiro.model')
 
